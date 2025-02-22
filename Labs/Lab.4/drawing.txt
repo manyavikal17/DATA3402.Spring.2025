@@ -1,0 +1,1 @@
+[Circle(5, 10, 10), Rectangle(8, 4, 0, 15), Triangle(6, 4, 6, 5, 7, 16, 2)]
